@@ -56,6 +56,6 @@ Designed a 4-step escalation process with clear decision-making authority at eac
 - Excel for tracking team performance and metrics
 - Collaborative feedback loops with team leaders
 
----
+<br>
 
 *This project reflects my approach to HR analytics: combining people insights with clear operational processes to drive measurable business outcomes.*
