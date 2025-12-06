@@ -1,7 +1,7 @@
 # HR Operations Process Optimization
 
 ## View the Full Process Map
-👉 **[Click here to view the interactive process diagram](https://viewer.diagrams.net/index.html?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#G19pRWsUk6eYtvd3YBNH6Tequ_4S5ereS9#%7B%22pageId%22%3A%22fsBh32Fd2EaC7OVqUxNn%22%7D)**
+👉 **[Click here to view the process diagram](https://viewer.diagrams.net/index.html?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#G19pRWsUk6eYtvd3YBNH6Tequ_4S5ereS9#%7B%22pageId%22%3A%22fsBh32Fd2EaC7OVqUxNn%22%7D)**
 
 ## Project Overview
 This project documents the process optimization framework I developed during my time as HR Operations Lead at UAVS-NSW in 2021. It demonstrates how I used data-driven approaches and clear process mapping to improve team efficiency, reduce turnover, and scale operations.
